@@ -1,7 +1,6 @@
 x = 5
 b = 3
 
-prit("привет")
+print("хай")
 
-print("hello world")
 print(x + b)
